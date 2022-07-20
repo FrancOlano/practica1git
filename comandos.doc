@@ -1,0 +1,8 @@
+git adog()
+git checkout
+git add
+git commit
+git push
+git remote -v
+git remote add origin
+git merge
